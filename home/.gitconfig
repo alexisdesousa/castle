@@ -2,3 +2,5 @@
 	email = alexis+github@desousa.cc
 	name = Alexis DeSousa
 
+[push]
+	default = simple
